@@ -4,9 +4,12 @@
 ### Linear regression and model selection (AIC, AICs, BIC, cross-validation) 
   
   - [How to calculate model selection scores (AIC, AICs, BIC, R2...)](model_selection.ipynb) 
+    
     <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab1/model_selection.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
+    </a>
+
+    This notebook provides: 
 
     - [Tools-and-packages](#tools-and-packages)
     - [Data loading](#data-loading) from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) 
@@ -20,7 +23,7 @@
     - [Performance on testing dataset (RSE, MSE)](#compute-performance-on-testing)
     - [Model selection AIC, AICs, BIC, Adjusted R2 (using Training data)](#model-selection-aic-aics-bic-adjusted-r2)
 
-  - [Lab 1: Cross-validation and model selection](main.ipynb) 
+  - [HW 1: linear regression and model selection (AIC, AICs, BIC, cross-validation)](main.ipynb) 
     
     <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab1/main.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>

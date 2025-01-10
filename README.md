@@ -13,19 +13,20 @@
 
 The coding scripts & excercises are 
 
-- [x] [Lab 1: linear regression and model selection (AIC, AICs, BIC, cross-validation)](Lab1/main.ipynb) 
+- [x] [Lab 1: linear regression and model selection (AIC, AICs, BIC, cross-validation)](Lab1/readme.md) 
 
-  <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab1/main.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
-
-    - Data processing
-      - Data reading and preprocessing
-      - Data splitting
-      - Data normalization
-      - Visualizing data correlation
-    - Implemention of OLS (Linear regression)
-    - Perform model selection (AIC, AICs, BIC, cross-validation)
+  - Data processing
+    - Data reading and preprocessing
+    - Data splitting
+    - Data normalization
+    - Visualizing data correlation
+  - Implemention of OLS (Linear regression)
+  - Perform model selection (AIC, AICs, BIC, cross-validation)
+  - Implement k-fold cross validation
+  - Docs:     
+    - [How to calculate model selection scores (AIC, AICs, BIC, R2...)](Lab1/model_selection.ipynb)  
+    - [HW 1: linear regression and model selection (AIC, AICs, BIC, cross-validation)](Lab1/main.ipynb) 
+    
 
 - [x] [Lab 2: Robust regression and regularization](Lab2/main.ipynb) 
 
