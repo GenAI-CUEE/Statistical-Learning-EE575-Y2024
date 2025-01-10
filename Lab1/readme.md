@@ -2,6 +2,8 @@
 
 
 ### Linear regression and model selection (AIC, AICs, BIC, cross-validation) 
+
+  - Finish the quiz in the `Assessment Platform` (myCourseVille)
   
   - [How to calculate model selection scores (AIC, AICs, BIC, R2...)](model_selection.ipynb) 
     
@@ -37,5 +39,5 @@
     - Your implementation of cross-validation
     - Show the averaged model selection scores: AIC, AICs, BIC, Adjusted R2 (using Training sets)
     - Show the averaged MSE scores from training and validation.
-
-    
+  
+  - Rename "main.ipynb"  to "G1.ipynb"  (if you are in group no. 1) and submit it through `Assignemnts` (myCourseVille)
