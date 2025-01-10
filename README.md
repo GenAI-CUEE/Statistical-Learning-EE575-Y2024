@@ -28,14 +28,17 @@ The coding scripts & excercises are
     - [HW 1: linear regression and model selection (AIC, AICs, BIC, cross-validation)](Lab1/main.ipynb) 
     
 
-- [x] [Lab 2: Robust regression and regularization](Lab2/main.ipynb) 
+- [x] [Lab 2: Robust regression and regularization](Lab2/readme.md) 
 
-  <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab2/main.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
+  - Complete 2 outlier analysises: [Lab 2: Outlier diagnostics](outlier_diagnostics.ipynb) <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab2/outlier_diagnostics.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+        </a>
 
-- [x] [Lab 3: Classification task using logistic regression and neural network](Lab3/main.ipynb)  
+    - H-matrix    
+    - Cook's distance  
 
-  <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab3/main.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
+  - Complete all the questions in the lab report provided in [https://docs.google.com/document/d/1-dJQiSUfh7xgOnS_mmyO56fu2aH97bs2UKa3ktmkDko/edit?usp=sharing]
+
+
+- [x] [Lab 3: Classification task using logistic regression and neural network](Lab3/readme.md)  
+
+ 
