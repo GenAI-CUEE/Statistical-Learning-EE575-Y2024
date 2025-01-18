@@ -19,8 +19,8 @@
 
     2. Complete all the questions in the lab report provided in [https://docs.google.com/document/d/1-dJQiSUfh7xgOnS_mmyO56fu2aH97bs2UKa3ktmkDko/edit?usp=sharing]
 
-        - Q1. Point out the differences between H-matrix and Cook's distance in the algorithm that can lead to the different results. 
-        - Q2. Provides 3 different ways to improve the results from these two methods.      
+        - Q1. Point out the differences between H-matrix and Cook's distance in the algorithm from a theoretical point of view.
+        - Q2. Then, discuss the results using H-matrix and Cook's distance. 
         - Please answer these questions using your results in Lab2 to provide the discussion. Make sure that every point that you made is supported by the evidence and the data.
     
     - Don't forget to rename "outlier_diagnostics.ipynb"  to "G1.ipynb"  (if you are in group no. 1) and submit it together with your lab report through `Assignemnts` (myCourseVille).
