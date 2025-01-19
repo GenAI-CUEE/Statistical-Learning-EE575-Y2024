@@ -4,6 +4,10 @@
 This class is taught at Chulalongkorn University (EE575).  
 You can find the records (in Thai) provided in the [video list (Youtube)](https://www.youtube.com/playlist?list=PLYrwEv08Hccg2POIP2l7e99xM9DzHDrS9). 
 
+Lecture notes are provided in [this Google drive](https://drive.google.com/drive/folders/19ORjfJ2XGgyTfBRMBhfc8811DtU6S0M4?usp=sharing).
+ 
+
+
 ### Environments
 
 - Create and install conda environment \
