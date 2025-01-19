@@ -1,5 +1,9 @@
  Our goal is to provide the code-based visualization and exercises to understand the mathematics behind each of lectures in **Statiscal Learning EE2102575** by *Suwichaya Suwanwimolkul*.
 
+
+This class is taught at Chulalongkorn University (EE575).  
+You can find the records (in Thai) provided in the [video list (Youtube)](https://www.youtube.com/playlist?list=PLYrwEv08Hccg2POIP2l7e99xM9DzHDrS9). 
+
 ### Environments
 
 - Create and install conda environment \
