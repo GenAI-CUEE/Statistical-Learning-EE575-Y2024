@@ -53,7 +53,7 @@ The coding scripts & excercises are
 
 - [x] [Midterm example](Midterm_example/Readme.md)  
  
-  -   You will find the necessary information and Python tools within the provided Jupyter notebook to answer the questions in this lab:  [Jupyter notebook](main.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Midterm_example/main.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  
+  -   You will find the necessary information and Python tools within the provided Jupyter notebook to answer the questions in this lab:  [Jupyter notebook](Midterm_example/main.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Midterm_example/main.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  
   
   - The questions are provided in [Midterm example](Midtermexample_year2025.pdf)
     
