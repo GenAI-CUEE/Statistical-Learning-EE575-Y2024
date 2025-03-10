@@ -66,4 +66,18 @@ The coding scripts & excercises are
     - Making analysis of the results and evaluation such as confusion matrix, precision-recall, etc. 
     
     - Then use the results to answers the questions (example questions are provided in the Midtermexample_year2025.pdf). 
- 
+
+- [x] [Lab 4. SVM](Lab4/readme.md)  
+
+
+- [x] [Lab 5. Decision tree ](Lab5/readme.md)  
+      Building tree is a greedy approach to select the feature space partitioning. In this exercise, we hope that you can learn how the decision tree is built.    
+      In fact, we have adopted the implementation from [Normalized nerd](https://www.youtube.com/@NormalizedNerd). 
+      So, feel free to watch the video: [Decision tree for regression](https://www.youtube.com/watch?v=UhY5vPfQIrA), as your reference. 
+  
+    - Your tasks are 
+      1. Provide the flowchart for `build_tree(self, dataset, curr_depth=0)` in the `DecisionTreeRegressor class`. 
+      - We have provided the flowchart in [Lab4.drawio](Lab5/FlowChart/Lab4.drawio), but the flow chart is incomplete. You can open this file via [https://app.diagrams.net/](https://app.diagrams.net/). 
+      - Please provide an explanation of your flowchart in [the lab sheet report](https://docs.google.com/document/d/1k8ZRV82h77Vwxc1H-u_OzqdHPrGLDGJwGSPyFx42M9M/edit?usp=sharing). [Reference. https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/)
+
+      2. If one has to modify this implementation for classification task, which functions in [Decision tree class](#decision-tree-regressor-class) should be changed? Please provide your reason in [the lab sheet report](https://docs.google.com/document/d/1k8ZRV82h77Vwxc1H-u_OzqdHPrGLDGJwGSPyFx42M9M/edit?usp=sharing). 
