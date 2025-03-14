@@ -68,6 +68,13 @@ The coding scripts & excercises are
     - Then use the results to answers the questions (example questions are provided in the Midtermexample_year2025.pdf). 
 
 - [x] [Lab 4. SVM](Lab4/readme.md)  
+    In this tutorial, we will build SVM for binary-class classification. 
+    - In this experiment, we will investigate 
+      1. how the learned model has changed as the regularization parameter $C$ increased or decreased ( C = 1000 vs. C = 0.001)... This can be explained by showing the differences in the support hyperplanes and the target hyperplane. 
+      
+      2. how the performance on the test data looks like as the regularization parameter $C$ increased or decreased 
+
+      You can provide your results in the lab sheet: [the lab sheet report](https://docs.google.com/document/d/1lWBvb9OQFmyp9sb9t6UMkYqNuXfTGSRJpQ4XxbNP_WY/edit?usp=sharing)   
 
 
 - [x] [Lab 5. Decision tree ](Lab5/readme.md)  
