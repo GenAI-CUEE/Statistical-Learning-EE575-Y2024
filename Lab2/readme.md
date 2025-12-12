@@ -19,7 +19,7 @@
       - The two outlier analysises are provided in [Lab 2: Outlier diagnostics](outlier_diagnostics.ipynb)   or     <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab2/outlier_diagnostics.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
       </a>. This notebook provides:   
           - Tools and packages
-          - Download data from [kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) 
+          - Downloaded data from [kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) 
           - Data processing 
           
   - Q2. Point out the differences between H-matrix and Cook's distance in the algorithm from a theoretical point of view. Mainly, you should be able to verify ...
