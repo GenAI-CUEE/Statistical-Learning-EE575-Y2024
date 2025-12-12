@@ -8,7 +8,7 @@
   - can apply the evaluation scores for selecting the best configuration for a linear regression model.
 
 #### Assignment sheet
-  - Download the [Google doc](https://docs.google.com/document/d/1fSAkG4Smzvuzhv4LZpc48LYRIDp825EPDRx3-HzdIeo/edit?tab=t.0) and answer all the questions. \
+  - Download the [Google doc: Lab1](https://docs.google.com/document/d/1fSAkG4Smzvuzhv4LZpc48LYRIDp825EPDRx3-HzdIeo/edit?tab=t.0) and answer all the questions. \
     Please download them as a PDF file and rename it from `Lab1.pdf` to `Lab1_G1.pdf`. 
 
   - Q1. We have partially implement a cross-validation framework. Your task is to complete the function called `single_fold_operation`. You have to  
