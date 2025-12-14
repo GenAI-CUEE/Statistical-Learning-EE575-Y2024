@@ -47,7 +47,7 @@ The coding scripts & excercises are
     - can implement SVM and train the model.
     - can use the evaluation metrics and validation techniques to choose the best model configuration for SVM.
 
-- [x][HW 5. Clustering algorithms](Lab5/readme.md) 
+- [x] [HW 5. Clustering algorithms](Lab5/readme.md) 
   - Goal
     - can implement and configure the clustering algorithms.
     - can provide the reasons why the chosen algorithm is the most suitable for given datasets. 
