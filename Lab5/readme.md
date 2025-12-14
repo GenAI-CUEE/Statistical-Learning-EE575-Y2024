@@ -1,42 +1,23 @@
- Our goal is to provide the code-based exercises to understand the mathematics behind each of lectures in **Statiscal Learning EE2102575** by *Suwichaya Suwanwimolkul*.
+
+### HW 5. Clustering algorithms 
 
 
-### Decision tree  
+#### Goal:  
+- can implement and configure the clustering algorithms.
+- can provide the reasons why the chosen algorithm is the most suitable for given datasets. 
+- can provide the answer with evidence.
 
-  - [How to implement decision tree for regression tasks](main.ipynb) 
-    
-    <a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Statistical-Learning-EE575-Y2024/blob/master/Lab5/main.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-    </a>
+We have provided parts of the implementation in Github Lab5. The hyperparameters were not only roughly set up, so you may need to find the best  settings on your own.  
 
-    This notebook provides: 
+#### Assignment sheet  
 
-    - [Import tools](#import-tools)
-    - [Get the data](#get-the-data) 
-    - [Decision tree implementation](#decision-tree-implementation)
-        - [Node class](#node-class)
-        - [Decision tree class](#decision-tree-regresssor-class)
-    - [Runing inference](#running-inference)
-    - [sklearn's decision tree](#sk-learn-decision-treee-regressor)
+Download the [Google doc: Lab5](https://docs.google.com/document/d/1k8ZRV82h77Vwxc1H-u_OzqdHPrGLDGJwGSPyFx42M9M/edit?tab=t.0#heading=h.umlmb4qd3y4r) and answer all the questions. 
 
-    
-    Building decision tree is a greedy approach to select the feature space partitioning in a tree. 
-    Therefore, in this exercise, we hope that you can learn how the decision tree is built.    
-    In fact, we have adopted the implementation from [Normalized nerd](https://www.youtube.com/@NormalizedNerd). 
-    So, feel free to watch the video: [Decision tree for regression](https://www.youtube.com/watch?v=UhY5vPfQIrA), as your reference. 
- 
-  - Your tasks are 
-    1. Provide the flowchart for `build_tree(self, dataset, curr_depth=0)` in the `DecisionTreeRegressor class`. 
-    - We have provided the flowchart in [Lab4.drawio](Lab5/FlowChart/Lab4.drawio), but the flow chart is incomplete. You can open this file via [https://app.diagrams.net/](https://app.diagrams.net/). 
-    - Please provide an explanation of your flowchart in [the lab sheet report](https://docs.google.com/document/d/1k8ZRV82h77Vwxc1H-u_OzqdHPrGLDGJwGSPyFx42M9M/edit?usp=sharing). [Reference. https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/)
 
-    2. If one has to modify this implementation for classification task, which functions in [Decision tree class](#decision-tree-regressor-class) should be changed? Please provide your reason in [the lab sheet report](https://docs.google.com/document/d/1k8ZRV82h77Vwxc1H-u_OzqdHPrGLDGJwGSPyFx42M9M/edit?usp=sharing).   
+- Explore the given datasets dataset A and dataset B. At first, you should try different clustering algorithms (k-mean, GMM, and DBSCAN) on dataset A.  We have provided parts of the implementation in Github Lab5. The hyperparameters were only roughly  set up, so you may need to find the most suitable setting on your own.  Also, we provided the ground truth clusters in the attribute called `label’ in the dictionary (for both dataset A and B). Then, answer the following questions:
 
-  - Your submitted files are:
-    - [A lab sheet report](https://docs.google.com/document/d/1k8ZRV82h77Vwxc1H-u_OzqdHPrGLDGJwGSPyFx42M9M/edit?usp=sharing) 
-      - to explain the flowchart for `build_tree`; and
-      - to answer to the question of which functions in [Decision tree class](#decision-tree-regressor-class) should be changed so that the implementation will work for a classification task? 
-    
-    - To draw the flowchart for `build_tree`. You can do this by copying the provided flowchart and complete the missing flowchart in [Lab4.drawio](Lab5/FlowChart/Lab4.drawio). 
+    - 1. When the number of clusters is unknown, what is the most suitable algorithm  (including the hyperparameter settings) ? Also, provide the reasons why the chosen algorithm is the most suitable for given datasets
 
-  - Always, set up your folder name as your group name, for example, "G1.zip"  (if you are in group no. 1) and submit it through `Assignemnts` (myCourseVille)
+    - 2. However, when the number of clusters is known, what is the most suitable algorithm  (including the hyperparameter settings) ? Provide the reasons why the chosen algorithm is the most suitable for given datasets
+
+- If you switch to  dataset B, would you get the same answers? And why? 

@@ -1,12 +1,10 @@
-### Tutorial 5: Support vector machine
- 
+### HW 4. Support vector machine
 To support `Lecture 12: Support vector machine` ...  by *Suwichaya Suwanwimolkul, Ph.D.*
 
 
-### HW 4. Support vector machine
 #### Goal: 
   - can implement SVM and train the model.
-  - can use the evaluation metrics and validation techniques for choosing the best configuration of the hyperparameters in SVM.  
+  - can use the evaluation metrics and validation techniques to choose the best model configuration for SVM.
 
 #### Assignment sheet  
 
