@@ -10,7 +10,7 @@ To support `Lecture 12: Support vector machine` ...  by *Suwichaya Suwanwimolkul
 
 #### Assignment sheet  
 
-Download the [Google doc: Lab4](https://docs.google.com/document/d/1lWBvb9OQFmyp9sb9t6UMkYqNuXfTGSRJpQ4XxbNP_WY/edit?tab=t.0) and answer all the questions. \
+Download the [Google doc: Lab4](https://docs.google.com/document/d/1lWBvb9OQFmyp9sb9t6UMkYqNuXfTGSRJpQ4XxbNP_WY/edit?tab=t.0) and answer all the questions. 
 
 
 - 1. Explain how you set up the experiment, e.g., 
